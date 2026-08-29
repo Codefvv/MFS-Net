@@ -1,0 +1,14 @@
+path: /root/autodl-tmp/ultralytics-main/data/NEU-DET 
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+
+names:
+  0: crazing
+  1: inclusion
+  2: patches
+  3: pitted_surface
+  4: rolled-in_scale
+  5: scratches

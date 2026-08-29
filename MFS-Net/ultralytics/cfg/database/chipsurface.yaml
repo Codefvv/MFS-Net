@@ -1,0 +1,12 @@
+path: /root/autodl-tmp/ultralytics-main/data/chipsurface 
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+
+names:
+  0: broken
+  1: crack
+  2: pollution
+  

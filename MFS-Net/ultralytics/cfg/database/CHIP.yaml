@@ -1,0 +1,12 @@
+path: /root/autodl-tmp/ultralytics-main/data/CHIP 
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+
+names:
+  0: damage
+  1: particle
+  2: dent
+  
